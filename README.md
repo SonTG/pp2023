@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL VU MINH HIEN
+* Student Name: VU MINH HIEN
 * Student ID: BI12-154
 
